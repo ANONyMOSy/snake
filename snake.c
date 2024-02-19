@@ -1,3 +1,7 @@
+// This program is a simple snake game in C that runs from your terminal.
+// To run the game navigate to the snake directory wherever you downloaded it.
+// Compile an a.out file using your C compiler (ex: cc snake.c -lncurses) make sure to link the curses library.
+// Run the game using the command ./a.out and using the arrow keys to control.
 #include <curses.h>
 #include <unistd.h>
 #include <stdlib.h>
